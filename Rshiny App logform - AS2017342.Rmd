@@ -1,0 +1,70 @@
+---
+title: "Project 6 - Shiny App"
+author: "Ramindu de Silva - AS2017342"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(rmarkdown)
+library(tinytex)
+install_tinytex()
+```
+
+**Project ID:**
+
+2021_6
+
+**Date - Assigned: **
+
+2022 March 4
+
+**Date - Completed:**
+
+2022 March 10
+
+**Client name and details:**
+
+Statistical Consultancy Service Unit, University of Sri Jayewardenepura
+
+**Project details:**
+
+Statistical Consultancy Service - Shiny App  
+
+1. The task of the project was to design a Rshiny app which performs exploratory data analysis on a particular dataset.  
+
+2. Apart from the main task mentioned above a sub task was assigned. The task was to draw a rough sketch of the shiny dashboard we planned on developing. This was done prior to the creation of the shiny app. 
+
+**Meeting summary:**
+
+\begin{table}[ht]
+\begin{tabular}{p{0.1\linewidth}|p{1\linewidth}}
+\hline
+\multicolumn{2}{|l|}{Date: 4 March 2022} \\ \hline
+      Time     &      1.00pm - 3.00pm     \\ \hline
+       Mode    &     Zoom      \\ \hline
+       Description    &     Introduction to Rshiny and the need for the creation of such a dashboard were discussed. Furthermore, suitable data visualization and presentation techniques within the dashboard along with aspects on dashboard structure were discussed.  \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[ht]
+\begin{tabular}{p{0.1\linewidth}|p{1\linewidth}}
+\hline
+\multicolumn{2}{|l|}{Date: 18 March 2022} \\ \hline
+      Time     &      1.00pm - 3.00pm     \\ \hline
+       Mode    &     Zoom      \\ \hline
+       Description    &     Presentation of created Rshiny app and obtained feedback on how to improve the application  \\ \hline
+\end{tabular}
+\end{table}
+
+**Final outputs:**  
+1. Created a temporary draft of the Rshiny dashboard.      
+2. Created an Rshiny app dashboard for exploratory data analysis.  
+
+**Remarks/ Other:**  
+1. Gained knowledge on shiny apps within Rstudio    
+2. Obtained knowledge on how to structure a dashboard to suit different types of clients.
+
+
+
