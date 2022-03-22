@@ -13,7 +13,9 @@ about_page <- tabPanel(
   br(),
   "2022 March",
   br(),
-  "Ramindu de Silva - AS2017342"
+  "Ramindu de Silva - AS2017342",
+  br(),
+  "References - https://towardsdatascience.com/how-to-build-a-data-analysis-app-in-r-shiny-143bee9338f7"
 )
 
 
